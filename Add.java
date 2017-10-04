@@ -1,3 +1,16 @@
+/****
+Designing:
+1.Pictorial representation of the program
+2.Deciding the required tools(Marking)
+3.Creating the tools
+   -Declaring the tools
+   -Defining the tools
+4.Add the tools in the container
+Coding:
+1.Implementing an appropriate Listeners
+2.Registering the Listeners to the tools
+3.Defining the methods of Listeners
+****/
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
